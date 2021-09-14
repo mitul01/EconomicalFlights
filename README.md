@@ -20,7 +20,7 @@ This is a Flask web app which predicts fare of Flight ticket on the basis of sev
 
 ## Flowchart of Methodology
 <p align="center">
-<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/flowchart.JPG" width="600" height="300"/>
+<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/flowchart.JPG" width="800" height="400"/>
  </p>
 
 ## Directory Tree 
