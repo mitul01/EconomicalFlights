@@ -19,7 +19,7 @@ Link: [https://economicalflights.herokuapp.com/](https://economicalflights.herok
 This is a Flask web app which predicts fare of Flight ticket on the basis of several factors like duration of flight, source and destination etc.
 
 ## Flowchart of Methodology
-<p align="centre">
+<p align="center">
 <img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/flowchart.JPG" width="800" height="400"/>
  </p>
 
