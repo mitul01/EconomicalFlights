@@ -11,10 +11,10 @@
 ## Demo
 Link: [https://economicalflights.herokuapp.com/](https://economicalflights.herokuapp.com/)
 
-<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/flowchart.JPG" width="800" height="400"/>
+<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/input.JPG" width="800" height="400"/>
 <br>
 <br>
-<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/flowchart.JPG" width="800" height="400"/>
+<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/output.JPG" width="800" height="400"/>
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket on the basis of several factors like duration of flight, source and destination etc.
