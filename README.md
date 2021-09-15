@@ -11,9 +11,10 @@
 ## Demo
 Link: [https://economicalflights.herokuapp.com/](https://economicalflights.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
-
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/flowchart.JPG" width="800" height="400"/>
+<br>
+<br>
+<img src="https://github.com/mitul01/EconomicalFlights/blob/master/static/css/flowchart.JPG" width="800" height="400"/>
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket on the basis of several factors like duration of flight, source and destination etc.
