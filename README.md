@@ -30,6 +30,9 @@ This is a Flask web app which predicts fare of Flight ticket on the basis of sev
 ```
 ├── static 
 │   ├── css
+|   ├── flowchat.JPG
+|   ├── input.jpg
+|   ├── output.jpg
 ├── template
 │   ├── home.html
 ├── Procfile
