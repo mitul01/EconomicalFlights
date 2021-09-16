@@ -3,8 +3,7 @@
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Motivation](#motivation)
-  * [Methodology](#deployement-on-heroku)
+  * [Flowchart of Methodology](#Flowchart-of-Methodology)
   * [Directory Tree](#directory-tree)
 
 
